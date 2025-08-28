@@ -48,7 +48,7 @@
 | **💬 Tweet Sentiment Analyzer** | Analyzes sentiment using ML & BERT | Logistic Regression, LSTM, BERT |
 | **📊 Multi-Perspective E-commerce Fraud detection** |To detect fraudulent transactions and to identify anomalies  | One-Class SVM|
 
-> 🌐 View detailed projects on [Portfolio Website](https://preview--sanjanaportfolioo.lovable.app/)   | Currently working on it |
+> 🌐 View detailed projects on [Portfolio Website](https://preview--sanjanaportfolioo.lovable.app/)  
 
 ---
 
