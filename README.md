@@ -17,7 +17,7 @@
 🎓 Final-year **CSE (AI & ML)** student  
 💡 Passionate about **AI-powered problem solving**  
 🔬 Exploring **Deep Learning, NLP & Generative AI**  
-⚡ Building **real-world, production-ready ML systems**  
+⚡ Building **real-world ML applications**  
 
 💬 *"I build intelligent systems — not just models."*
 
@@ -27,20 +27,11 @@
 
 <p align="center">
 
-**Languages**  
-Python 🐍 • R  
-
-**AI/ML**  
-TensorFlow • PyTorch • Scikit-learn  
-
-**NLP & GenAI**  
-Transformers • Hugging Face • LangChain  
-
-**Visualization**  
-Power BI • Matplotlib  
-
-**Tools**  
-Git • VS Code • Jupyter • Colab • Streamlit  
+**Python 🐍 • R**  
+**TensorFlow • PyTorch • Scikit-learn**  
+**Transformers • Hugging Face • LangChain**  
+**Power BI • Matplotlib**  
+**Git • VS Code • Jupyter • Colab • Streamlit**
 
 </p>
 
@@ -48,79 +39,55 @@ Git • VS Code • Jupyter • Colab • Streamlit
 
 ## 🚀 Featured Projects
 
-<p align="center">
+### 🧠 Medical AI Assistant  
+💡 AI-powered healthcare system with diagnosis + chatbot  
 
-<!-- PROJECT 1 -->
-<a href="https://drive.google.com/file/d/1kHXQnlqE6yvWncDme8WfQ3W2a2lPeKcP/view">
-  <img src="https://img.shields.io/badge/🧠 Medical AI Assistant-Advanced-blueviolet?style=for-the-badge"/>
-</a>
-
-</p>
-
-💡 **AI-powered healthcare system combining Computer Vision + NLP**
-
-✨ Pneumonia Detection (X-ray)  
-✨ Skin Cancer Classification  
-✨ Multilingual AI Chatbot 🌍  
-✨ Real-time Predictions ⚡  
+▸ Pneumonia Detection (X-ray)  
+▸ Skin Cancer Classification  
+▸ Multilingual Chatbot 🌍  
+▸ Real-time predictions ⚡  
 
 🛠️ `TensorFlow` `OpenCV` `NLP` `Streamlit`  
 
+🔗 <a href="https://drive.google.com/file/d/1kHXQnlqE6yvWncDme8WfQ3W2a2lPeKcP/view">Watch Demo</a>
+
 ---
 
-<p align="center">
+### 🧴 Skin Cancer Detection  
+🎯 Classifies 7 types of skin diseases  
 
-<!-- PROJECT 2 -->
-<img src="https://img.shields.io/badge/🧴 Skin Cancer Detection-CNN-orange?style=for-the-badge"/>
-
-</p>
-
-🎯 Classifies **7 skin diseases** with high accuracy  
-
-✔ CNN-based model  
-✔ Precaution suggestions  
-✔ Web interface  
+▸ CNN-based model  
+▸ Feature-based detection  
+▸ Web interface  
 
 🛠️ `MobileNetV2` `Streamlit`  
 
 ---
 
-<p align="center">
+### 💬 Sentiment Analyzer  
+📊 Real-time tweet sentiment analysis  
 
-<!-- PROJECT 3 -->
-<img src="https://img.shields.io/badge/💬 Sentiment Analyzer-NLP-blue?style=for-the-badge"/>
-
-</p>
-
-📊 Real-time **tweet sentiment analysis system**  
-
-✔ ML + BERT models  
-✔ Text preprocessing pipeline  
-✔ Fast predictions  
+▸ ML + BERT models  
+▸ Text preprocessing  
+▸ Fast predictions  
 
 🛠️ `LSTM` `BERT` `Scikit-learn`  
 
 ---
 
-<p align="center">
+### 📊 Fraud Detection System  
+🔍 Detects fraudulent transactions  
 
-<!-- PROJECT 4 -->
-<img src="https://img.shields.io/badge/📊 Fraud Detection-ML-critical?style=for-the-badge"/>
-
-</p>
-
-🔍 Detects **fraudulent transactions & anomalies**  
-
-✔ Unsupervised learning  
-✔ Pattern detection  
-✔ Scalable system  
+▸ Unsupervised learning  
+▸ Pattern detection  
+▸ Scalable system  
 
 🛠️ `One-Class SVM`  
 
 ---
 
 <p align="center">
-🌐 <a href="https://preview--sanjanaportfolioo.lovable.app/"><b>Explore Full Portfolio →</b></a>
+🌐 <a href="https://preview--sanjanaportfolioo.lovable.app/"><b>✨ View Full Portfolio →</b></a>
 </p>
 
 ---
@@ -132,7 +99,7 @@ Git • VS Code • Jupyter • Colab • Streamlit
 
 ---
 
-## 📚 Currently Exploring
+## 📚 Currently Learning
 
 ▸ LangChain & RAG  
 ▸ Multimodal LLMs  
