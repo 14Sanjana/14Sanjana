@@ -87,7 +87,7 @@
 ---
 
 <p align="center">
-🌐 <a href="https://preview--sanjanaportfolioo.lovable.app/"><b>✨ View Full Portfolio →</b></a>
+🌐 <a href="https://ther-spark-ai.lovable.app/"><b>✨ View Full Portfolio →</b></a>
 </p>
 
 ---
